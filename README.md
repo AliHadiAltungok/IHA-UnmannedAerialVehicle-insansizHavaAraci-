@@ -1,2 +1,2 @@
 # Unmanned-aerial-vehicle-insansizHavaAraci-
-Autocad de ölçeklendirip 3D olarak kaynaklardaki ölçeklendirme ve oranlara göre sadece kaba iskeletini gövde, baş, kanatlar ve kuyruk tasalayıp çizdiğim insansız hava aracının renklendirilmiş görsel hali mevct olmakla birlikte autocad dosyası da mevcuttur.
+AutoCAD de ölçeklendirip 3D olarak kaynaklardaki ölçeklendirme ve oranlara göre sadece kaba iskeletini gövde, baş, kanatlar ve kuyruk tasalayıp çizdiğim insansız hava aracının renklendirilmiş görsel hali mevct olmakla birlikte autocad dosyası da mevcuttur.
